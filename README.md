@@ -8,6 +8,7 @@ Vengo del mundo de los sistemas y la administración de redes, pero mi pasión p
 
 ### 🛠️ Lo que estoy haciendo ahora
 - 📚 Estudiando **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma).
+- 🤖 Integrando herramientas de IA en mi flujo de desarrollo para mejorar la calidad del código y la velocidad de despliegue.
 - 🐧 Automatizando tareas de sistemas mediante **Bash Scripting**.
 - ☕ Profundizando en **Java (OOP)** y estructuras de datos.
 - 🗄️ Diseñando bases de datos eficientes con **SQL**.
