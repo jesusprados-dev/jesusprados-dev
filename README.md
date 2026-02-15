@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! Soy Jesús Prados 👋
 
-<!--
-**jesusprados-dev/jesusprados-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Técnico de Sistemas & Desarrollador Junior (DAM) 🚀
 
-Here are some ideas to get you started:
+Vengo del mundo de los sistemas y la administración de redes, pero mi pasión por crear soluciones me ha llevado al desarrollo de software. Mi objetivo es fusionar ambos mundos: **Infraestructura y Código**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Lo que estoy haciendo ahora
+- 📚 Estudiando **Grado Superior en DAM** (Desarrollo de Aplicaciones Multiplataforma).
+- 🐧 Automatizando tareas de sistemas mediante **Bash Scripting**.
+- ☕ Profundizando en **Java (OOP)** y estructuras de datos.
+- 🗄️ Diseñando bases de datos eficientes con **SQL**.
+
+### 💻 Mi Stack Técnico
+- **Lenguajes:** Java, Bash Scripting.
+- **Sistemas:** Linux (Ubuntu/Debian), Windows Server, Virtualización (VMware/VirtualBox).
+- **Bases de Datos:** MySQL, PostgreSQL.
+- **Herramientas:** Git, GitHub, Docker (en aprendizaje).
+
+### 📫 Conecta conmigo
+- **LinkedIn:** [linkedin.com/in/jesus-prados](https://www.linkedin.com/in/jesus-prados)
+- **Email:** jesuspa1104@gmail.com
+
+---
+
+*"Si se puede automatizar, no debería hacerse a mano."*
